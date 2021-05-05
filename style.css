@@ -109,9 +109,9 @@ body {
     background-size: cover;
 }
 .app-download:nth-child(1) {
-    background-image: url(./Apple-button.png)
+    background-image: url(./img/Apple-button.png)
 }
-.app-download:nth-child(2) {background-image: url(./Googleplay-button.png)
+.app-download:nth-child(2) {background-image: url(./img/Googleplay-button.png)
 
 }
 /* media queries*/
